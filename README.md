@@ -1,2 +1,2 @@
-# DS
-Data Structures and Algorithms Implementations in C++
+# Projects
+practice projects
